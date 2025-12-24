@@ -7,8 +7,7 @@
 
 body {
     background: linear-gradient(#6a3077 0%, #041832 33.33%, #041832 66.67%, #01080E 100%);
-    min-height: 100vh;
-    padding: 1rem;
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;

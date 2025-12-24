@@ -7,7 +7,6 @@
 
 body {
     background: linear-gradient(#6a3077 0%, #041832 33.33%, #041832 66.67%, #01080E 100%);
-    body {
     min-height: 100vh;
     padding: 1rem;
     display: flex;
@@ -191,4 +190,3 @@ button:disabled {
     }
 }
 
-}
